@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Trong Phu\Documents\GitHub\ComputerShop\Computer_Shop"/>
+			<item value="C:\Users\Trong Phu\Documents\GitHub\ComputerShop"/>
+			<item value="C:\Users\Trong Phu\eclipse-workspace\QuanLyTourDuLich"/>
+			<item value="C:\Users\Dell\eclipse-workspace\Selenium Test"/>
+			<item value="C:\Users\Dell\eclipse-workspace\QuanLyTourDuLich\src"/>
+			<item value="C:\Users\Dell\eclipse-workspace\QuanLyTourDuLich"/>
+			<item value="C:\Users\Dell\Downloads\dkmh"/>
+			<item value="C:\Users\Dell\Downloads\hoaDon"/>
+			<item value="C:\Users\Dell\Documents\QLTaiKhoan"/>
+			<item value="C:\Users\Dell\Downloads\QLTour"/>
+			<item value="D:\Java\DoAnJava\QLTour"/>
+			<item value="D:\Java\DoAnJava\QuanLyTourDuLich_2"/>
+			<item value="C:\Users\Dell\Downloads\QuanLyTourDuLich_2"/>
+			<item value="C:\Users\Dell\Downloads\QuanLyTourDuLich_test"/>
+			<item value="C:\Users\Dell\Downloads\nhanSu"/>
+			<item value="D:\Java\DoAnJava\QuanLiBongDen-main"/>
+			<item value="C:\Users\Dell\Documents\GitHub\QLSGK"/>
+			<item value="C:\Users\Dell\Downloads\QuanLiBongDen-main"/>
+			<item value="C:\Users\Dell\Downloads\WebBanThuoc (1)"/>
+			<item value="C:\Users\Dell\Documents\JavaProJects\QuanLyNhaThuoc"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Dell\eclipse-workspace\Assignments_A"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ToaDO&apos; to &apos;ToaDo&apos;&#x0D;&#x0A;- Original project: &apos;LopAbstract&apos;&#x0D;&#x0A;- Original element: &apos;ToaDO&apos;&#x0D;&#x0A;- Renamed element: &apos;ToaDo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ToaDO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ToaDO.java[ToaDO" matchStrategy="1" name="ToaDo" qualified="false" references="true" similarDeclarations="false" stamp="1675782683077" textual="false" version="1.0"/>
+</session>

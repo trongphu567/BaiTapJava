@@ -1,0 +1,21 @@
+1682405033603	Delete element
+1682408045829	Delete element
+1682408253601	Delete element
+1682609805402	Rename package 'view'
+1682610006501	Rename type 'TrangThaiTour'
+1682610104155	Rename type 'TourView'
+1682610162586	Delete element
+1682610224759	Rename type 'TaiKhoanView'
+1682610318695	Rename type 'NhanVien'
+1682610360451	Rename type 'MainKhachHangView'
+1682610411239	Rename type 'SignupView'
+1682610442979	Rename type 'MainAdminView'
+1682610466892	Rename type 'LoginView'
+1682610829590	Rename type 'KhachHangView'
+1682611071153	Rename type 'DatTourView'
+1682611341854	Rename package 'model'
+1682611359504	Rename type 'KhachHang'
+1682611379041	Rename type 'TaiKhoan'
+1682611732738	Rename package 'dao'
+1682611756174	Rename package 'controller'
+1682611989159	Rename type 'chucnang'

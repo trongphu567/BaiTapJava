@@ -1,0 +1,728 @@
+2023-10-18 13:39:02,876 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 13:40:49,181 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.2.0/maven-clean-plugin-3.2.0.jar
+2023-10-18 13:40:49,648 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.2.0/maven-clean-plugin-3.2.0.jar
+2023-10-18 13:40:50,012 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.1/maven-resources-plugin-3.3.1.jar
+2023-10-18 13:40:50,205 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.1/maven-resources-plugin-3.3.1.jar
+2023-10-18 13:40:50,359 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.jar
+2023-10-18 13:40:50,572 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.jar
+2023-10-18 13:40:50,684 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.jar
+2023-10-18 13:40:50,887 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.jar
+2023-10-18 13:40:51,039 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/3.1.1/maven-install-plugin-3.1.1.jar
+2023-10-18 13:40:51,284 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/3.1.1/maven-install-plugin-3.1.1.jar
+2023-10-18 13:40:51,554 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/3.1.1/maven-deploy-plugin-3.1.1.jar
+2023-10-18 13:40:51,768 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/3.1.1/maven-deploy-plugin-3.1.1.jar
+2023-10-18 13:40:51,956 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.12.1/maven-site-plugin-3.12.1.jar
+2023-10-18 13:40:52,352 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.12.1/maven-site-plugin-3.12.1.jar
+2023-10-18 13:40:56,170 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumTest:SeleniumTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Selenium Test\pom.xml.
+2023-10-18 13:40:56,170 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumTest:SeleniumTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Selenium Test\pom.xml.
+2023-10-18 13:40:56,900 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.1/maven-resources-plugin-3.3.1.pom
+2023-10-18 13:40:56,972 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.1/maven-resources-plugin-3.3.1.pom
+2023-10-18 13:40:57,010 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/39/maven-plugins-39.pom
+2023-10-18 13:40:57,072 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/39/maven-plugins-39.pom
+2023-10-18 13:40:57,109 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/39/maven-parent-39.pom
+2023-10-18 13:40:57,185 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/39/maven-parent-39.pom
+2023-10-18 13:40:57,240 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/29/apache-29.pom
+2023-10-18 13:40:57,307 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/29/apache-29.pom
+2023-10-18 13:40:57,359 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.pom
+2023-10-18 13:40:57,422 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.pom
+2023-10-18 13:40:57,464 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.1.2/surefire-3.1.2.pom
+2023-10-18 13:40:57,552 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.1.2/surefire-3.1.2.pom
+2023-10-18 13:40:57,599 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.pom
+2023-10-18 13:40:57,656 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.pom
+2023-10-18 13:40:57,808 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/37/maven-plugins-37.pom
+2023-10-18 13:40:57,864 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/37/maven-plugins-37.pom
+2023-10-18 13:40:57,909 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/37/maven-parent-37.pom
+2023-10-18 13:40:58,005 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/37/maven-parent-37.pom
+2023-10-18 13:40:58,044 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/27/apache-27.pom
+2023-10-18 13:40:58,110 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/27/apache-27.pom
+2023-10-18 13:40:58,159 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.pom
+2023-10-18 13:40:58,216 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.pom
+2023-10-18 13:40:58,255 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/36/maven-shared-components-36.pom
+2023-10-18 13:40:58,311 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/36/maven-shared-components-36.pom
+2023-10-18 13:40:58,351 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/36/maven-parent-36.pom
+2023-10-18 13:40:58,418 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/36/maven-parent-36.pom
+2023-10-18 13:40:58,457 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/26/apache-26.pom
+2023-10-18 13:40:58,513 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/26/apache-26.pom
+2023-10-18 13:40:58,564 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
+2023-10-18 13:40:58,622 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
+2023-10-18 13:40:58,660 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
+2023-10-18 13:40:58,732 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
+2023-10-18 13:40:58,770 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.pom
+2023-10-18 13:40:58,827 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.pom
+2023-10-18 13:40:58,864 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom
+2023-10-18 13:40:58,920 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom
+2023-10-18 13:40:58,961 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.pom
+2023-10-18 13:40:59,033 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.pom
+2023-10-18 13:40:59,140 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+2023-10-18 13:40:59,210 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+2023-10-18 13:40:59,250 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom
+2023-10-18 13:40:59,309 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom
+2023-10-18 13:40:59,354 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2023-10-18 13:40:59,418 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2023-10-18 13:40:59,461 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.pom
+2023-10-18 13:40:59,520 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.pom
+2023-10-18 13:40:59,561 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.pom
+2023-10-18 13:40:59,615 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.pom
+2023-10-18 13:40:59,654 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/10/plexus-10.pom
+2023-10-18 13:40:59,713 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/10/plexus-10.pom
+2023-10-18 13:40:59,758 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2023-10-18 13:40:59,812 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2023-10-18 13:40:59,856 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.pom
+2023-10-18 13:40:59,910 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.pom
+2023-10-18 13:40:59,951 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.pom
+2023-10-18 13:41:00,006 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.pom
+2023-10-18 13:41:00,051 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2023-10-18 13:41:00,114 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2023-10-18 13:41:00,152 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.pom
+2023-10-18 13:41:00,229 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.pom
+2023-10-18 13:41:00,269 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.pom
+2023-10-18 13:41:00,328 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.pom
+2023-10-18 13:41:00,392 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom
+2023-10-18 13:41:00,495 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom
+2023-10-18 13:41:00,538 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/8/plexus-8.pom
+2023-10-18 13:41:00,621 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/8/plexus-8.pom
+2023-10-18 13:41:00,664 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.jar
+2023-10-18 13:41:00,700 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+2023-10-18 13:41:00,700 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+2023-10-18 13:41:00,700 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.jar
+2023-10-18 13:41:00,700 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar
+2023-10-18 13:41:00,807 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar
+2023-10-18 13:41:00,969 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2023-10-18 13:41:01,012 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.jar
+2023-10-18 13:41:01,012 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.jar
+2023-10-18 13:41:01,012 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+2023-10-18 13:41:01,043 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2023-10-18 13:41:01,067 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2023-10-18 13:41:01,072 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.jar
+2023-10-18 13:41:01,123 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+2023-10-18 13:41:01,204 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar
+2023-10-18 13:41:01,261 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.jar
+2023-10-18 13:41:01,261 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+2023-10-18 13:41:01,261 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2023-10-18 13:41:01,296 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar
+2023-10-18 13:41:01,336 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar
+2023-10-18 13:41:01,346 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+2023-10-18 13:41:01,396 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar
+2023-10-18 13:41:01,424 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar
+2023-10-18 13:41:01,485 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar
+2023-10-18 13:41:02,465 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1.pom
+2023-10-18 13:41:02,528 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1.pom
+2023-10-18 13:41:02,568 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.1/maven-filtering-3.3.1.pom
+2023-10-18 13:41:02,639 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.1/maven-filtering-3.3.1.pom
+2023-10-18 13:41:02,678 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/39/maven-shared-components-39.pom
+2023-10-18 13:41:02,737 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/39/maven-shared-components-39.pom
+2023-10-18 13:41:02,775 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2023-10-18 13:41:02,832 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2023-10-18 13:41:02,868 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2023-10-18 13:41:02,945 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2023-10-18 13:41:03,007 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.0/plexus-utils-3.5.0.pom
+2023-10-18 13:41:03,070 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.0/plexus-utils-3.5.0.pom
+2023-10-18 13:41:03,112 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
+2023-10-18 13:41:03,179 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
+2023-10-18 13:41:03,220 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
+2023-10-18 13:41:03,274 [Worker-9: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
+2023-10-18 13:41:03,324 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2023-10-18 13:41:03,350 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1.jar
+2023-10-18 13:41:03,417 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.1/maven-filtering-3.3.1.jar
+2023-10-18 13:41:03,417 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+2023-10-18 13:41:03,582 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1.jar
+2023-10-18 13:41:03,583 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2023-10-18 13:41:03,583 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.1/maven-filtering-3.3.1.jar
+2023-10-18 13:41:03,639 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+2023-10-18 13:41:03,680 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:03,681 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-18 13:41:03,684 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:03,685 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-18 13:41:03,728 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-18 13:41:04,106 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumTest:SeleniumTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Selenium Test\pom.xml.
+2023-10-18 13:41:04,379 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium Test/src
+2023-10-18 13:41:04,380 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Selenium Test/src/main/resources overlaps with sources folder /Selenium Test/src
+2023-10-18 13:41:04,381 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Selenium Test/src/test/java because it overlaps with /Selenium Test/src
+2023-10-18 13:41:04,381 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Selenium Test/src/test/resources overlaps with sources folder /Selenium Test/src
+2023-10-18 13:41:04,668 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-10-18 13:41:04,845 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:04,846 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-18 13:41:04,853 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:41:04,855 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-18 13:41:06,144 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumTest:SeleniumTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Selenium Test\pom.xml.
+2023-10-18 13:46:47,414 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 13:50:10,827 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:50:10,830 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-18 13:50:10,835 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 13:50:10,836 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-18 13:50:40,872 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Cookies references closed project Selenium Test
+org.eclipse.core.runtime.CoreException: Launch configuration Cookies references closed project Selenium Test
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:223)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:889)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1041)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 13:50:40,877 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Cookies references closed project Selenium Test
+org.eclipse.core.runtime.CoreException: Launch configuration Cookies references closed project Selenium Test
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:223)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:889)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1041)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 13:50:40,882 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Cookies references closed project Selenium Test
+org.eclipse.core.runtime.CoreException: Launch configuration Cookies references closed project Selenium Test
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:223)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2137)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:889)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1041)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 13:50:40,883 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FirefoxProfile references closed project Selenium Test
+org.eclipse.core.runtime.CoreException: Launch configuration FirefoxProfile references closed project Selenium Test
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:223)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:889)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1041)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 13:50:40,884 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FirefoxProfile references closed project Selenium Test
+org.eclipse.core.runtime.CoreException: Launch configuration FirefoxProfile references closed project Selenium Test
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:223)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:889)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1041)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 13:50:40,887 [Worker-5: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FirefoxProfile references closed project Selenium Test
+org.eclipse.core.runtime.CoreException: Launch configuration FirefoxProfile references closed project Selenium Test
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:223)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2137)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:889)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1041)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 14:03:54,005 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 17.0.3+8-LTS-111
+2023-10-18 14:03:54,059 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-10-18 14:03:54,105 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1c12b9d4{/help,null,AVAILABLE}
+2023-10-18 14:03:54,139 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@21e2fb54{HTTP/1.1, (http/1.1)}{127.0.0.1:54849}
+2023-10-18 14:03:54,166 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@79bd232a{STARTING}[10.0.15,sto=0] @1037187ms
+2023-10-18 14:24:59,283 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumTest:SeleniumTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Selenium Test\pom.xml.
+2023-10-18 14:25:00,635 [Worker-25: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumTest:SeleniumTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\Selenium Test\pom.xml.
+2023-10-18 14:25:12,653 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestCase:TestCase:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\TestCase\pom.xml.
+2023-10-18 14:25:13,408 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestCase/src
+2023-10-18 14:25:13,408 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TestCase/src/main/resources overlaps with sources folder /TestCase/src
+2023-10-18 14:25:13,409 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TestCase/src/test/java because it overlaps with /TestCase/src
+2023-10-18 14:25:13,412 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TestCase/src/test/resources overlaps with sources folder /TestCase/src
+2023-10-18 14:25:13,513 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-18 14:25:13,589 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestCase:TestCase:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\TestCase\pom.xml.
+2023-10-18 14:25:13,776 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestCase/src
+2023-10-18 14:25:13,776 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TestCase/src/main/resources overlaps with sources folder /TestCase/src
+2023-10-18 14:25:13,777 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TestCase/src/test/java because it overlaps with /TestCase/src
+2023-10-18 14:25:13,777 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TestCase/src/test/resources overlaps with sources folder /TestCase/src
+2023-10-18 14:25:13,808 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-10-18 14:25:13,927 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:25:13,928 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\TestCase\src\main\resources
+2023-10-18 14:25:13,933 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:25:13,934 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\TestCase\src\test\resources
+2023-10-18 14:25:49,099 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TestCase:TestCase:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\TestCase\pom.xml.
+2023-10-18 14:25:49,250 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:25:49,251 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\TestCase\src\main\resources
+2023-10-18 14:25:49,253 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:25:49,254 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\TestCase\src\test\resources
+2023-10-18 14:26:16,462 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:26:16,462 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\TestCase\src\main\resources
+2023-10-18 14:26:16,464 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:26:16,465 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\TestCase\src\test\resources
+2023-10-18 14:35:18,333 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@79bd232a{STOPPING}[10.0.15,sto=0]
+2023-10-18 14:35:18,346 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@21e2fb54{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-10-18 14:35:18,358 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1c12b9d4{/help,null,STOPPED}
+2023-10-18 14:37:01,932 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 14:38:21,685 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:38:21,690 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-18 14:38:21,696 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:38:21,698 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-18 14:38:28,134 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:38:28,135 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-18 14:38:28,137 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 14:38:28,138 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-18 15:10:03,683 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 15:19:20,912 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:19:21,727 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GroovyTest/src
+2023-10-18 15:19:21,728 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /GroovyTest/src overlaps with sources folder /GroovyTest/src
+2023-10-18 15:19:21,733 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GroovyTest/src/test/java because it overlaps with /GroovyTest/src
+2023-10-18 15:19:21,734 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /GroovyTest/src/test/resources overlaps with sources folder /GroovyTest/src
+2023-10-18 15:19:21,864 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-18 15:19:22,411 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:19:22,597 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GroovyTest/src
+2023-10-18 15:19:22,598 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /GroovyTest/src overlaps with sources folder /GroovyTest/src
+2023-10-18 15:19:22,601 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GroovyTest/src/test/java because it overlaps with /GroovyTest/src
+2023-10-18 15:19:22,601 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /GroovyTest/src/test/resources overlaps with sources folder /GroovyTest/src
+2023-10-18 15:19:22,677 [Worker-24: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-10-18 15:19:22,804 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:19:22,812 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:19:22,825 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:19:22,826 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:19:37,402 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:19:37,961 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15.pom
+2023-10-18 15:19:38,083 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15.pom
+2023-10-18 15:19:38,161 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.15/groovy-bom-4.0.15.pom
+2023-10-18 15:19:38,264 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.15/groovy-bom-4.0.15.pom
+2023-10-18 15:19:38,329 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15.jar
+2023-10-18 15:19:41,450 [Worker-28: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15.jar
+2023-10-18 15:19:41,538 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:19:41,540 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src to target\classes
+2023-10-18 15:19:41,543 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:19:41,544 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:19:42,678 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15-sources.jar
+2023-10-18 15:19:43,199 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [295])
+2023-10-18 15:19:43,200 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-10-18 15:19:43,201 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-18 15:19:43,201 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-10-18 15:19:43,201 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-10-18 15:19:43,202 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-10-18 15:19:43,202 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-10-18 15:19:43,202 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-10-18 15:19:43,202 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-10-18 15:19:43,202 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-10-18 15:19:43,202 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-10-18 15:19:43,203 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-10-18 15:19:43,204 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-10-18 15:19:43,205 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-10-18 15:19:43,206 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-18 15:19:43,206 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-10-18 15:19:43,206 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-10-18 15:19:43,206 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-10-18 15:19:43,209 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [10])
+2023-10-18 15:19:43,209 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2023-10-18 15:19:43,210 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [516])
+2023-10-18 15:19:43,210 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2023-10-18 15:19:43,210 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [26])
+2023-10-18 15:19:43,210 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-18 15:19:43,211 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [24])
+2023-10-18 15:19:43,211 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2023-10-18 15:19:43,211 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [49])
+2023-10-18 15:19:43,211 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2023-10-18 15:19:43,211 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [12])
+2023-10-18 15:19:43,212 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-18 15:19:43,217 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Dell\eclipse-workspace\GroovyTest":
+2023-10-18 15:19:43,239 [Worker-25: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-10-18 15:19:43,405 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15-sources.jar
+2023-10-18 15:19:43,409 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.groovy:groovy:4.0.15
+2023-10-18 15:19:57,538 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:19:57,540 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:19:57,545 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:19:57,546 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:21:24,103 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 17.0.3+8-LTS-111
+2023-10-18 15:21:24,142 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-10-18 15:21:24,183 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@b60f71a{/help,null,AVAILABLE}
+2023-10-18 15:21:24,209 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2b79242c{HTTP/1.1, (http/1.1)}{127.0.0.1:56590}
+2023-10-18 15:21:24,232 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@516dbdd3{STARTING}[10.0.15,sto=0] @690113ms
+2023-10-18 15:23:29,848 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-18 15:23:30,224 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:23:30,331 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GroovyTest/src
+2023-10-18 15:23:30,331 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /GroovyTest/src overlaps with sources folder /GroovyTest/src
+2023-10-18 15:23:30,331 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GroovyTest/src/test/java because it overlaps with /GroovyTest/src
+2023-10-18 15:23:30,331 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /GroovyTest/src/test/resources overlaps with sources folder /GroovyTest/src
+2023-10-18 15:23:30,390 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-10-18 15:23:30,557 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:23:30,558 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:23:30,565 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:23:30,566 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:23:38,414 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:23:38,610 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.pom
+2023-10-18 15:23:38,613 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.smartbear.soapui:soapui:jar:5.0.0 is missing, no dependency information available
+2023-10-18 15:23:38,672 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar
+2023-10-18 15:23:38,760 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:23:38,762 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src to target\classes
+2023-10-18 15:23:38,766 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:23:38,767 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:23:40,080 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0-sources.jar
+2023-10-18 15:23:40,085 [Worker-29: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.smartbear.soapui:soapui:5.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.smartbear.soapui:soapui:jar:sources:5.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-18 15:25:37,721 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:25:37,794 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:25:37,795 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src to target\classes
+2023-10-18 15:25:37,799 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:25:37,800 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:25:39,987 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:25:39,989 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:25:39,992 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:25:39,992 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:26:49,537 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:26:49,539 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:26:49,542 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:26:49,542 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:26:57,083 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:26:57,084 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:26:57,086 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:26:57,086 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:27:12,951 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:27:12,952 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:27:12,955 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:27:12,956 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:28:49,412 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [295])
+2023-10-18 15:28:49,413 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-10-18 15:28:49,413 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-18 15:28:49,413 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-10-18 15:28:49,413 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-10-18 15:28:49,414 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-10-18 15:28:49,415 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-10-18 15:28:49,416 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [10])
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [516])
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [26])
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-18 15:28:49,417 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [24])
+2023-10-18 15:28:49,418 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2023-10-18 15:28:49,418 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [49])
+2023-10-18 15:28:49,418 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2023-10-18 15:28:49,418 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [12])
+2023-10-18 15:28:49,418 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-18 15:28:49,419 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Dell\eclipse-workspace\GroovyTest":
+2023-10-18 15:28:49,419 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-10-18 15:28:56,861 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GroovyTest:GroovyTest:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace\GroovyTest\pom.xml.
+2023-10-18 15:28:57,114 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-10-18 15:28:57,224 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-10-18 15:28:57,302 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2023-10-18 15:28:57,337 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2023-10-18 15:28:57,497 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2023-10-18 15:28:57,865 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2023-10-18 15:28:58,102 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:28:58,104 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src to target\classes
+2023-10-18 15:28:58,107 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:28:58,108 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:28:59,256 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2023-10-18 15:28:59,472 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2023-10-18 15:28:59,477 [Worker-34: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.2
+2023-10-18 15:28:59,753 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-10-18 15:29:00,322 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-10-18 15:29:00,325 [Worker-34: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2023-10-18 15:29:42,678 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:29:42,679 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-18 15:29:42,684 [Worker-27: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-18 15:29:42,685 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-18 15:32:04,041 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [295])
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-10-18 15:32:04,042 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-10-18 15:32:04,043 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-10-18 15:32:04,044 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [10])
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [516])
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [26])
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-18 15:32:04,045 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [24])
+2023-10-18 15:32:04,046 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2023-10-18 15:32:04,046 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [49])
+2023-10-18 15:32:04,046 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2023-10-18 15:32:04,046 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [12])
+2023-10-18 15:32:04,046 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dell\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-18 15:32:04,047 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Dell\eclipse-workspace\GroovyTest":
+2023-10-18 15:32:04,047 [Worker-43: Launching Executing install in C__Users_Dell_eclipse-workspace_GroovyTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-10-18 15:32:59,703 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@516dbdd3{STOPPING}[10.0.15,sto=0]
+2023-10-18 15:32:59,711 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2b79242c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-10-18 15:32:59,716 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@b60f71a{/help,null,STOPPED}
+2023-10-18 16:04:35,061 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-18 22:04:46,789 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-18 22:05:26,074 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-19 08:26:02,026 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-19 08:26:06,812 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:26:06,823 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src to target\classes
+2023-10-19 08:26:06,865 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:26:06,866 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\GroovyTest\src\test\resources
+2023-10-19 08:26:09,743 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:26:09,745 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-19 08:26:09,748 [Worker-0: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:26:09,749 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-19 08:27:16,515 [Worker-13: Launching FirefoxProfile] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:27:16,515 [Worker-13: Launching FirefoxProfile] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-19 08:27:16,531 [Worker-13: Launching FirefoxProfile] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:27:16,534 [Worker-13: Launching FirefoxProfile] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-10-19 08:29:02,612 [Worker-9: Launching FirefoxProfile] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:29:02,614 [Worker-9: Launching FirefoxProfile] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\main\resources
+2023-10-19 08:29:02,618 [Worker-9: Launching FirefoxProfile] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-19 08:29:02,619 [Worker-9: Launching FirefoxProfile] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace\Selenium Test\src\test\resources
+2023-11-01 22:43:32,727 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-01 22:43:44,165 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-11-01 22:43:46,835 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.15/groovy-4.0.15.pom
+2023-11-01 22:43:46,842 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2023-11-01 22:43:46,895 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.1/maven-resources-plugin-3.3.1.pom
+2023-11-01 22:44:37,541 [Worker-7: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2023-11-02 21:55:38,794 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-02 22:31:06,869 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-07 20:01:56,720 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-08 16:15:16,902 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-09 10:33:01,954 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-10 22:14:12,782 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-11 19:58:24,296 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-11 20:25:13,141 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-12 13:22:00,982 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-12 14:31:12,134 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-12 19:44:53,821 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-12 23:15:58,944 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-13 12:07:54,703 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-13 16:23:29,330 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-15 13:40:51,655 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-15 16:05:13,613 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-16 20:11:16,260 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-17 17:40:48,069 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-17 20:09:03,082 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-17 20:49:30,936 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-17 22:19:33,831 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-17 23:27:35,732 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-18 07:34:25,516 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-18 08:49:30,938 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 15:34:22,549 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-19 16:10:10,132 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 16:53:33,495 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 16:56:39,016 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 16:59:06,406 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 17:00:04,696 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 17:04:15,805 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 17:04:55,821 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-19 22:45:07,659 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-20 10:21:02,372 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-20 14:38:00,694 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-20 22:41:56,945 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-21 22:42:35,773 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-22 12:07:12,519 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-22 12:36:05,940 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-22 15:05:49,106 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-22 16:02:03,915 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-25 19:03:05,550 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-25 22:09:10,643 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-25 23:07:03,995 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-26 12:50:35,335 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-26 14:36:19,203 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-26 16:50:46,425 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-26 21:07:43,008 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-27 23:06:35,623 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-27 23:06:35,923 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-11-27 23:51:55,496 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-28 13:30:19,977 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-28 20:57:57,836 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-28 21:19:20,091 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-28 21:44:26,200 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-28 23:27:50,415 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-29 07:54:19,028 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-29 09:37:42,696 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-29 11:15:43,082 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-29 12:47:48,819 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-29 14:36:44,605 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-03 14:20:17,465 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-03 14:22:48,421 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-03 19:07:42,895 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-03 21:26:58,443 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-03 23:05:38,177 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-03 23:07:50,315 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-03 23:28:55,724 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-04 13:56:12,343 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-04 18:41:03,718 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-04 22:39:31,367 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-04 23:10:33,147 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-05 16:11:43,846 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-05 20:34:14,036 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-06 14:05:45,137 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-06 14:22:32,299 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-08 22:26:18,367 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-08 22:45:13,379 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-08 23:39:51,985 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 11:20:32,758 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-02-22 21:39:37,476 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-23 13:50:14,886 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
